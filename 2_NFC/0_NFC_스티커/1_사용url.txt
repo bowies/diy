@@ -1,0 +1,14 @@
+1. NFC 스티커 사 놓게 된 이유
+    https://www.youtube.com/watch?v=jPJOPJWdEOE
+    서울리안 유튜브를 예전에 보고 갤럭시 루틴 좀 써보려고 사뒀었다.
+    (그리고 나서는 삼성노트랑 문 열기 기능에만 썼었다. (지금은 보안 때문에 NFC 카드로 안 씀))
+
+2. 모동숲 때문에 Tagmo
+    https://github.com/HiddenRamblings/TagMo/releases
+
+
+3. 모동숲 때문에 JoyConDroid
+    https://github.com/YouTubePlays/JoyConDroid/releases/tag/1.0.90.8
+
+
+* 리셋했더니 주민 수 7명 이하라 쓸 수가 없음... (보류)
